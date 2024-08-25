@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🌟 About Me
 
--🔭 I’m currently focused on building backend applications using Node.js and Express, and exploring database technologies like MongoDB and mySQL. I’m also interested in understanding server-side architectures and improving my skills in API development and deployment.
+- 🔭 I’m currently focused on building backend applications using Node.js and Express, and exploring database technologies like MongoDB and mySQL. I’m also interested in understanding server-side architectures and improving my skills in API development and deployment.
 - 🌱 I’m currently learning about GenAI, Web3 technologies, and the Metaverse to stay at the forefront of emerging tech trends.
 - 👯 I’m looking to collaborate on web development projects involving modern frontend frameworks like React, and backend technologies such as Node.js and Express. I’m also interested in working on full-stack applications and integrating third-party APIs.
 - 🤔 I’m looking for help with optimizing performance for large-scale web applications and best practices for managing state in React applications. I’d also appreciate guidance on advanced CSS techniques and responsive design principles.
