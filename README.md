@@ -23,7 +23,7 @@ Here are some of the technologies and tools I use:
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mnasirkhan97/) - Connect with me on LinkedIn!
-- [Portfolio]() - Check out my portfolio!
+- [Portfolio](https://nasir-portfolio-one.vercel.app/) - Check out my portfolio!
 
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
